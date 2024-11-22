@@ -1,5 +1,5 @@
 # STEAM-Carnival-Slideshow
-Made for WRHS CSHS' STEAM Carnival, this program cycles through the slideshow carnival and periodically refreshes and updates the linked charts.
+Made for WRHS CSHS' STEAM Carnival, this program cycles through the slideshow carnival and periodically refreshes and updates the linked charts. ***TIMING STILL NEEDS TO BE ADJUSTED***
 
 # How to use:
 Ensure you have the STEAM Carnival slideshow open and ready to be presented </br>
