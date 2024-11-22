@@ -18,15 +18,9 @@ python -m pip install --upgrade pip
 
 cls
 
-:: Install Pillow
-echo Installing Pillow...
-pip install pillow
-
-cls
-
-:: Install PyAutoGUI
-echo Installing PyAutoGUI...
-pip install pyautogui
+:: Install Packages
+echo Installing packages...
+pip install -r requirements.txt
 
 cls
 
