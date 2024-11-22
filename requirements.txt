@@ -1,3 +1,0 @@
-Pillow==11.0.0
-PyAutoGUI==0.9.54
-PyScreeze==1.0.1
